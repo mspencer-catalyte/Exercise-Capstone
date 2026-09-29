@@ -1,3 +1,53 @@
+submissions = [
+    {
+        "quiz_name": "Statistics Quiz 1",
+        "quiz_module": "Statistics",
+        "quiz_score": 85,
+        "student_id": 101,
+        "student_name": "Jack",
+        "submission_date": "2026-09-01"
+    },
+    {
+        "quiz_name": "Statistics Quiz 2",
+        "quiz_module": "Statistics",
+        "quiz_score": 82,
+        "student_id": 102,
+        "student_name": "Bob",
+        "submission_date": "2026-09-01"
+    },
+    {
+        "quiz_name": "Algebra Quiz 1",
+        "quiz_module": "Algebra",
+        "quiz_score": 78,
+        "student_id": 101,
+        "student_name": "Jack",
+        "submission_date": "2026-09-02"
+    },
+    {
+        "quiz_name": "Algebra Quiz 2",
+        "quiz_module": "Algebra",
+        "quiz_score": 81,
+        "student_id": 103,
+        "student_name": "Charlie",
+        "submission_date": "2026-09-02"
+    },
+    {
+        "quiz_name": "History Quiz 1",
+        "quiz_module": "History",
+        "quiz_score": 80,
+        "student_id": 102,
+        "student_name": "Bob",
+        "submission_date": "2026-09-03"
+    }
+        {
+        "quiz_name": "History Quiz 1",
+        "quiz_module": "History",
+        "quiz_score": 79,
+        "student_id": 104,
+        "student_name": "Alex",
+        "submission_date": "2026-09-03"
+    }
+]
 def filter_by_date(date, submissions):
     """
     Returns all submissions whose submission_date matches the given date.
