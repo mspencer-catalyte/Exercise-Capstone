@@ -38,7 +38,7 @@ submissions = [
         "student_id": 102,
         "student_name": "Bob",
         "submission_date": "2026-09-03"
-    }
+    },
         {
         "quiz_name": "History Quiz 1",
         "quiz_module": "History",
